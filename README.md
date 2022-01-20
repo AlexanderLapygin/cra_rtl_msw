@@ -22,7 +22,7 @@
 
 ## Direct ancestors
 
-[***- msw, rest, cypress, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
+[***- msw, rest, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
 
 ## Direct descendants
 
