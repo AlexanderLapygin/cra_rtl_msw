@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "keywords": [
     "cra",
-    "cypress",
-    "e2e",
     "msw",
     "openapi-backend",
     "react",
@@ -29,10 +27,7 @@
     "start": "cross-env PORT=3001 react-scripts start",
     "build": "react-scripts build",
     "update": "npx msw init public --no-save",
-    "cy:run": "cypress run",
-    "test": "yarn test:unit && yarn test:e2e",
-    "test:unit": "react-scripts test --env=jest-environment-jsdom-sixteen",
-    "test:e2e": "start-server-and-test start http://localhost:3001 cy:run",
+    "test": "react-scripts test --env=jest-environment-jsdom-sixteen",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
