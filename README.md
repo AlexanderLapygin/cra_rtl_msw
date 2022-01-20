@@ -22,7 +22,7 @@
 
 ## Direct ancestors
 
-[***- msw, rest, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
+[***- rtl***: cra_rtl_msw](https://github.com/AlexanderLapygin/cra_rtl_msw)
 
 ## Direct descendants
 
