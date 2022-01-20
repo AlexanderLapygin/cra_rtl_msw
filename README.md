@@ -4,13 +4,11 @@
     </a>
 </div>
 
-# CRA starter with testing by React Testing Library, Cypress and MSW
+# CRA starter with testing by React Testing Library and MSW
 
 ## Feature tags
 
 - create-react-app
-- cypress
-- e2e
 - javascript
 - mock-server-worker
 - react
@@ -28,9 +26,7 @@
 
 ## Direct descendants
 
-[***+ ts, react-query***: cra_ts_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
-
-TODO split starter to add starter without cypress and correct hierarchy of starters
+[***+ cypress, e2e***: cra_rtl_cypress_msw](https://github.com/AlexanderLapygin/cra_rtl_cypress_msw)
 
 ---
 
@@ -57,20 +53,6 @@ yarn start
 ## Running test (in watch mode)
 
 Being in the repository root directory, run:
-
-For unit-testing:
-
-```sh
-yarn test:unit
-```
-
-For e2e-testing:
-
-```sh
-yarn test:e2e
-```
-
-For unit- and e2e-testing:
 
 ```sh
 yarn test
