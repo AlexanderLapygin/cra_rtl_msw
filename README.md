@@ -22,7 +22,7 @@
 
 ## Direct ancestors
 
-[***- rtl***: cra_rtl_msw](https://github.com/AlexanderLapygin/cra_rtl_msw)
+[***- rtl***: cra_msw](https://github.com/AlexanderLapygin/cra_msw)
 
 ## Direct descendants
 
