@@ -27,7 +27,7 @@
 ## Direct descendants
 
 - [***+ cypress, e2e***: cra_rtl_cypress_msw](https://github.com/AlexanderLapygin/cra_rtl_cypress_msw)
-- [***+ faker, msw-data***: cra_msw-data_rtl_faker](https://github.com/AlexanderLapygin/cra_msw-data_rtl_faker)
+- [***+ crud, faker, msw-data***: cra_msw-data_rtl_faker](https://github.com/AlexanderLapygin/cra_msw-data_rtl_faker)
 
 ---
 
